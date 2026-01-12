@@ -1,5 +1,8 @@
+<p align="center">
 # IMDB Movies Analysis - Power BI Dashboard
-[View Dashboard](https://app.powerbi.com/groups/me/reports/35bad832-e153-44f2-91ca-a5389f51c552/a793471958ed7b2e078c?experience=power-bi)
+</p>
+
+[see Dashboard](https://app.powerbi.com/groups/me/reports/35bad832-e153-44f2-91ca-a5389f51c552/a793471958ed7b2e078c?experience=power-bi)
 
 ## 📊 Project Overview
 
@@ -89,17 +92,6 @@ The dashboard reveals insights such as:
 ## 📸 Screenshots
 <img width="1594" height="892" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/1af27e2a-25f0-4ae9-a0fa-2f84ef908566" />
 
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve this analysis:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/improvement`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add new feature'`)
-5. Push to the branch (`git push origin feature/improvement`)
-6. Create a Pull Request
 
 ## 👤 Author
 
