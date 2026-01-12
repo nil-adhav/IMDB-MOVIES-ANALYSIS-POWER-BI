@@ -1,5 +1,5 @@
 # IMDB Movies Analysis - Power BI Dashboard
-[]View Dashboard(https://app.powerbi.com/groups/me/reports/35bad832-e153-44f2-91ca-a5389f51c552/a793471958ed7b2e078c?experience=power-bi)
+[View Dashboard](https://app.powerbi.com/groups/me/reports/35bad832-e153-44f2-91ca-a5389f51c552/a793471958ed7b2e078c?experience=power-bi)
 
 ## 📊 Project Overview
 
