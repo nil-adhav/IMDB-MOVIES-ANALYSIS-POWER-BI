@@ -87,8 +87,8 @@ The dashboard reveals insights such as:
 5. Export visualizations or reports as needed
 
 ## 📸 Screenshots
+<img width="1594" height="892" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/1af27e2a-25f0-4ae9-a0fa-2f84ef908566" />
 
-*Add screenshots of your dashboard here to showcase the visualizations*
 
 ## 🤝 Contributing
 
@@ -101,15 +101,11 @@ Contributions are welcome! If you'd like to improve this analysis:
 5. Push to the branch (`git push origin feature/improvement`)
 6. Create a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👤 Author
 
 **Nil Adhav**
 
-- GitHub: [@nil-adhav](https://github.com/nil-adhav)
+- GitHub: [nil-adhav](https://github.com/nil-adhav)
 
 ## 🙏 Acknowledgments
 
